@@ -1,0 +1,15 @@
+---
+title: "Projects"
+editor: visual
+---
+
+#Past Projects
+My research interests are based on accelerator physics, quantum simulations for QCD, radiation/health physics, numerical relativity, and mechatronics projects applied to my physics knowledge.
+
+## Mechatronics
+
+## Nuclear Physics
+
+## Engineering
+
+---
